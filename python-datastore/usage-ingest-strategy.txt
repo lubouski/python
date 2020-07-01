@@ -1,0 +1,3 @@
+Hot-to use:
+If datatype for variable should be null, just omit passing this variable to script, like in example below with --userid
+$ python strategy.py --namespace=opendes --dagname=Ingest_dag --datatype=osdu  --workflowtype=ingest-str
